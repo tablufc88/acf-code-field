@@ -1,0 +1,19 @@
+{
+	"name": "tablufc88/acf-code-field",
+	"description": "ACF Code Field",
+	"keywords": [
+		"wordpress",
+		"plugin"
+	],
+	"homepage": "https://advancedcustomfields.com",
+	"authors": [
+		{
+			"name": "Elliot Condon",
+			"homepage": "https://advancedcustomfields.com"
+		}
+	],
+	"type": "wordpress-plugin",
+	"require": {
+		"php": ">=7.1"
+	}
+}
